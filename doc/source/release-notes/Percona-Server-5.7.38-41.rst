@@ -4,6 +4,9 @@
 *Percona Server for MySQL* 5.7.38-41 (2022-06-02)
 ====================================================
 
+`Percona Server for MySQL <https://www.percona.com/software/mysql-database/percona-server>`_ 5.7.39-42
+includes all the features and bug fixes available in `MySQL 5.7.39 Community Edition <https://dev.mysql.com/doc/relnotes/mysql/5.7/en/news-5-7-39.html>`__ in addition to enterprise-grade features developed by Percona.
+
 .. include:: ../_res/rn/ps-mysql-blurb.txt
 
 .. contents::
@@ -11,7 +14,7 @@
 
 .. include:: ../_res/rn/5.7.38-highlights.txt
 
-.. include:: ../_res/rn/deprecated.txt
+.. include:: ../_res/rn/deprecated-5.7.38.txt
 
 Bugs Fixed
 =================================================
